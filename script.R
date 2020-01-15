@@ -1,5 +1,5 @@
 #Test git
 
 a <- 3
-b <- 56
-c <-a*b
+d <- 12
+c <-a*d
